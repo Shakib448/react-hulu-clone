@@ -1,0 +1,6 @@
+/* This div is flipMove div try to inspect this for sure */
+.results > div { 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
